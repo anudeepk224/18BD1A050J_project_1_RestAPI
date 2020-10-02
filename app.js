@@ -1,3 +1,4 @@
+//very good app
 const express = require('express');
 
 const app = express();
@@ -7,6 +8,7 @@ app.get('/', (req,res) => {
     res.send('Hello world');
 });
 
+//app
 app.use(express.json())
 const hospitalRouter = require('./routes/hospitals')
 app.use('/hospitals',hospitalRouter)
