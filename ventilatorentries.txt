@@ -1,0 +1,42 @@
+{
+        "_id" : ObjectId("5f70775f136be31a5c93cbf5"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V5",
+        "status" : "available",
+        "name" : "Apollo Hospital"
+}
+{
+        "_id" : ObjectId("5f70775f136be31a5c93cbf6"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V3",
+        "status" : "occupied",
+        "name" : "Prathima Hospital"
+}
+{
+        "_id" : ObjectId("5f70775f136be31a5c93cbf7"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V1",
+        "status" : "occupied",
+        "name" : "Aware Gleneagles global hospitals"
+}
+{
+        "_id" : ObjectId("5f70775f136be31a5c93cbf8"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V4",
+        "status" : "occupied",
+        "name" : "hedge hospital"
+}
+{
+        "_id" : ObjectId("5f70775f136be31a5c93cbf9"),
+        "hId" : "H5",
+        "ventilatorId" : "H5V2",
+        "status" : "occupied",
+        "name" : "yashoda hospital"
+}
+{
+        "_id" : ObjectId("5f74037501c55f43908fb7b3"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V2",
+        "status" : "unoccupied",
+        "name" : "hedge hospital"
+}

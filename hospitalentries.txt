@@ -1,0 +1,40 @@
+{
+        "_id" : ObjectId("5f7073b5136be31a5c93cbf0"),
+        "hId" : "H1",
+        "name" : "Apollo Hospital",
+        "location" : "17.398664,78.484334",
+        "address" : "RD Number 72,opp Bharatiya vidya bhavans,hyderabad,telangana 500033",
+        "contactno" : "1860-500-1066"
+}
+{
+        "_id" : ObjectId("5f7073b5136be31a5c93cbf1"),
+        "hId" : "H2",
+        "name" : "Prathima Hospital",
+        "location" : "17.399964,79.444433",
+        "address" : "3/4/3,kachiguda railway station rd,barkathpura,telangana 500027",
+        "contactno" : "040-4345-4345"
+}
+{
+        "_id" : ObjectId("5f7073b5136be31a5c93cbf2"),
+        "hId" : "H3",
+        "name" : "Aware Gleneagles global hospitals",
+        "location" : "19.232323,81.555555",
+        "address" : "8-16-1,nagarjuna sagar rd,laxmi enclave,hyderabad,telangana 500035",
+        "contactno" : "040-2411-1111"
+}
+{
+        "_id" : ObjectId("5f7073b5136be31a5c93cbf3"),
+        "hId" : "H4",
+        "name" : "hegde hospital",
+        "location" : "22.334433,92.434242",
+        "address" : "67,68,vittal rao nagar,madhapur,telangana 500081",
+        "contactno" : "088807-47474"
+}
+{
+        "_id" : ObjectId("5f7073b5136be31a5c93cbf4"),
+        "hId" : "H5",
+        "name" : "yashoda hospital",
+        "location" : "34.662343,44.934567",
+        "address" : "raj bhavan rd,matha nagar,somajiguda,telangana-500035",
+        "contactno" : "040-4567-4567"
+}
